@@ -1,0 +1,22 @@
+.blog{
+    background-color: rgb(44, 235, 161);
+    border:10px solid hotpink;
+    border-radius: 12px;
+    margin: 50px auto;
+    padding: 20px 30px;
+    height: 250px;
+    width: 80%;
+    
+}   
+.blog-title{
+    color: darkblue;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+.author-name{
+    color:hotpink;
+}
+.blog p{
+    color: rgb(227, 248, 36);
+    text-align: justify;
+}
